@@ -1,0 +1,10 @@
+{
+  "name": "QRToolkit",
+  "description": "Enterprise-grade SEO multi-tools suite featuring QR, barcode, image compression, developer tools, unit converters, and client-side utilities.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

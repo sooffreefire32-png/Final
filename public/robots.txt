@@ -1,0 +1,8 @@
+# https://www.robotstxt.org/robotstxt.html
+# Allow all search engine crawlers to crawl and index the entire site
+
+User-agent: *
+Allow: /
+
+# Reference the XML sitemap
+Sitemap: https://qrtoolkit.site/sitemap.xml
